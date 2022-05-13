@@ -1,6 +1,9 @@
 # Stock-Trading-App
 A native SwiftUI application that allows users to search different stock symbols/tickers and obtain detailed insights about them. In addition the users can trade with virtual money and create a portfolio. Users can also favorite certain stocks to track them.
 
+# Demo video
+https://user-images.githubusercontent.com/58076457/168190315-8e081962-8a07-47d7-8a03-f9adaebb1acb.mp4
+
 # Technologies used
 SwiftUI, NodeJS, express, SFSymbols, Finnhub APIs
 
