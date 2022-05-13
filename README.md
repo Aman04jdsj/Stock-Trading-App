@@ -97,3 +97,16 @@ The sheet shows a close button on the top right corner. The following informatio
 5. Article Link
 6. Twitter Button (clicking it opens Twitter into safari with title and url being shared)
 7. Facebook Button (clicking it opens Facebook into safari with url being shared)
+
+<img width="367" alt="Screen Shot 2022-05-12 at 5 42 27 PM" src="https://user-images.githubusercontent.com/58076457/168189566-89f886eb-00d3-40cc-947b-cadd3b607b5c.png">
+
+<img width="365" alt="Screen Shot 2022-05-12 at 5 42 54 PM" src="https://user-images.githubusercontent.com/58076457/168189623-24bef9ef-8045-4762-98e1-7b1b3c7508bf.png">
+
+<img width="365" alt="Screen Shot 2022-05-12 at 5 43 12 PM" src="https://user-images.githubusercontent.com/58076457/168189640-3849df2b-9a09-48aa-a715-aedb2a23b8c9.png">
+
+<img width="365" alt="Screen Shot 2022-05-12 at 5 44 02 PM" src="https://user-images.githubusercontent.com/58076457/168189655-2f2e96e3-e6b3-4db9-b272-0d911262c8b1.png">
+
+<img width="365" alt="Screen Shot 2022-05-12 at 5 44 11 PM" src="https://user-images.githubusercontent.com/58076457/168189664-56703f92-96db-4382-9db4-8b3777d02f85.png">
+
+<img width="365" alt="Screen Shot 2022-05-12 at 5 44 32 PM" src="https://user-images.githubusercontent.com/58076457/168189684-d4a38fdf-fc73-4df0-ba21-fffcfb3ef291.png">
+
