@@ -5,4 +5,4 @@ A native SwiftUI application that allows users to search different stock symbols
 SwiftUI, NodeJS, express
 
 # Walkthrough
-# 1. Home Screen
+## 1. Home Screen
