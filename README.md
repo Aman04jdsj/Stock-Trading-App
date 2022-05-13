@@ -2,7 +2,7 @@
 A native SwiftUI application that allows users to search different stock symbols/tickers and obtain detailed insights about them. In addition the users can trade with virtual money and create a portfolio. Users can also favorite certain stocks to track them.
 
 # Technologies used
-SwiftUI, NodeJS, express, SFSymbols
+SwiftUI, NodeJS, express, SFSymbols, Finnhub APIs
 
 # Walkthrough
 ## Home Screen
@@ -87,6 +87,8 @@ o Twitter Total Mentions Value
 o Twitter Positive Mentions Value
 o Twitter Negative Mentions Value
 
+<img width="367" alt="Screen Shot 2022-05-12 at 5 42 27 PM" src="https://user-images.githubusercontent.com/58076457/168189566-89f886eb-00d3-40cc-947b-cadd3b607b5c.png">
+
 ### News Section
 The News section displays the news articles related to the given stock symbol. For each article, the information displayed is article source, article published ago (time since article was published relative to now), article image and article title. Clicking on a news article opens a sheet for more detail.
 The sheet shows a close button on the top right corner. The following information is shown below it:
@@ -98,8 +100,6 @@ The sheet shows a close button on the top right corner. The following informatio
 6. Twitter Button (clicking it opens Twitter into safari with title and url being shared)
 7. Facebook Button (clicking it opens Facebook into safari with url being shared)
 
-<img width="367" alt="Screen Shot 2022-05-12 at 5 42 27 PM" src="https://user-images.githubusercontent.com/58076457/168189566-89f886eb-00d3-40cc-947b-cadd3b607b5c.png">
-
 <img width="365" alt="Screen Shot 2022-05-12 at 5 42 54 PM" src="https://user-images.githubusercontent.com/58076457/168189623-24bef9ef-8045-4762-98e1-7b1b3c7508bf.png">
 
 <img width="365" alt="Screen Shot 2022-05-12 at 5 43 12 PM" src="https://user-images.githubusercontent.com/58076457/168189640-3849df2b-9a09-48aa-a715-aedb2a23b8c9.png">
@@ -109,4 +109,11 @@ The sheet shows a close button on the top right corner. The following informatio
 <img width="365" alt="Screen Shot 2022-05-12 at 5 44 11 PM" src="https://user-images.githubusercontent.com/58076457/168189664-56703f92-96db-4382-9db4-8b3777d02f85.png">
 
 <img width="365" alt="Screen Shot 2022-05-12 at 5 44 32 PM" src="https://user-images.githubusercontent.com/58076457/168189684-d4a38fdf-fc73-4df0-ba21-fffcfb3ef291.png">
+
+### Trade Sheet
+The Trade button in the Portfolio section opens a sheet for trading. In the middle is a TextField. There is also a numeric keyboard that pops up on clicking the TextField. Below the TextField, there is a calculation result which updates based on the numeric input to display the final price of the trade. At the bottom, the trade sheet displays the current amount of uninvested money available to trade for the user and two buttons for the user to either buy or sell the number of shares they have entered. After the user presses Buy or Sell, and a trade is successful the user is shown the trade success message. 
+
+<img width="304" alt="Screen Shot 2022-05-12 at 5 50 54 PM" src="https://user-images.githubusercontent.com/58076457/168190004-2fc1726f-eced-4928-b064-6f816aef4a77.png">
+
+<img width="321" alt="Screen Shot 2022-05-12 at 5 52 01 PM" src="https://user-images.githubusercontent.com/58076457/168190095-0af7585c-501d-43d3-a000-20bfdecee201.png">
 
